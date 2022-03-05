@@ -1,9 +1,9 @@
-<a href="https://app.daily.dev/jmpp"><img src="https://api.daily.dev/devcards/14cd1fe9a5024d65aaa86e0b187fcb6a.png?r=l33" width="400" alt="J.M. Cléry's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/jmpp"><img src="https://api.daily.dev/devcards/14cd1fe9a5024d65aaa86e0b187fcb6a.png?r=l33" width="300" alt="J.M. Cléry's Dev Card" align="right" /></a>
 
 <h1>Hello 👋, I'm Jean-Marie CLÉRY</h1>
 <h3>Fullstack JavaScript ninja 🐱‍👤, and enthusiast developer. Concerned about quality, UX, security and performance.</h3>
 
-<hr>
+<br>
 
 - 👨‍💻 My projects are available at [https://jmclery.dev](https://jmclery.dev)
 
@@ -11,13 +11,13 @@
 
 - 📫 How to reach me **hello@jmclery.dev** (or tweet [@_jmpp](https://twitter.com/_jmpp))
 
-- ⚡ Fun fact: I find solutions to my dev problems in my dreams, but I never remember them 😅
+- ⚡ Fun fact: I find solutions to my dev problems in my dreams, but I never remember them
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/_jmpp" target="blank"><img src="https://img.shields.io/twitter/follow/_jmpp?logo=twitter&style=for-the-badge" alt="_jmpp" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmpp" alt="jmpp" /></a> </p>
 
-<p align="left"><br><br><br><br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmpp" alt="jmpp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_jmpp" target="blank"><img src="https://img.shields.io/twitter/follow/_jmpp?logo=twitter&style=for-the-badge" alt="_jmpp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

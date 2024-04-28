@@ -6,10 +6,6 @@
 <h1>Hi 👋, I'm Jean-Marie CLERY</h1>
 <h3>Fullstack JavaScript ninja 🐱‍👤, and enthusiast developer. Concerned about quality, UX, security and performance.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="65%" src="https://github-profile-trophy.vercel.app/?username=jmpp" alt="jmpp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_jmpp" target="blank"><img src="https://img.shields.io/twitter/follow/_jmpp?logo=twitter&style=for-the-badge" alt="_jmpp" /></a> </p>
-
 - My projects are available at [https://jmclery.dev/](https://jmclery.dev/)
 
 - 💬 Ask me about **JavaScript, Vue.js, React, HTML and CSS**
@@ -19,6 +15,11 @@
 - 📄 Know about my experiences [https://linkedin.com/in/jean-marie-clery](https://linkedin.com/in/jean-marie-clery)
 
 - ⚡ Fun fact **I find solutions to my dev problems in my dreams, but I never remember them**
+
+<br>
+<p align="left"> <a href="https://twitter.com/_jmpp" target="blank"><img src="https://img.shields.io/twitter/follow/_jmpp?logo=twitter&style=for-the-badge" alt="_jmpp" /></a> </p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmpp" alt="jmpp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
